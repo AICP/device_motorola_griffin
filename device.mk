@@ -373,7 +373,7 @@ PRODUCT_PACKAGES += \
     textclassifier.smartselection.bundle1
 
 # Treble
-PRODUCT_FULL_TREBLE_OVERRIDE := true
+# PRODUCT_FULL_TREBLE_OVERRIDE := true
 PRODUCT_PACKAGES += \
     vndk-sp \
 
