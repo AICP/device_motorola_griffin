@@ -117,7 +117,10 @@ vendor/etc/cne/wqeclient/ATT/ATT_profile6.xml
 vendor/etc/cne/wqeclient/ROW/ROW_profile1.xml
 vendor/etc/cne/wqeclient/ROW/ROW_profile2.xml
 vendor/etc/cne/wqeclient/ROW/ROW_profile3.xml
+vendor/etc/cne/wqeclient/ROW/ROW_profile4.xml
 vendor/etc/cne/wqeclient/ROW/ROW_profile5.xml
+vendor/etc/cne/wqeclient/ROW/ROW_profile6.xml
+vendor/etc/cne/wqeclient/ROW/ROW_profile7.xml
 vendor/etc/cne/wqeclient/VZW/VZW_profile1.xml
 vendor/etc/cne/wqeclient/VZW/VZW_profile2.xml
 vendor/etc/cne/wqeclient/VZW/VZW_profile3.xml
@@ -754,7 +757,6 @@ lib/motorola.hardware.camera.provider@2.4.so
 vendor/lib/libgralloc1.so
 vendor/lib/motcamera.device@1.0-impl.so
 vendor/lib64/motcamera.device@1.0-impl.so
-lib/libYuvSkia.so
 
 # MOTO CAMERA
 vendor/lib/libois_rumba_s4.so
@@ -960,11 +962,11 @@ vendor/lib/libmmcamera_ubifocus_lib.so
 vendor/lib/libchromaflash.so
 vendor/lib/liboptizoom.so
 vendor/lib/libseemore.so
-vendor/lib/libtrueportrait.so
+lib/libtrueportrait.so
 vendor/lib/libubifocus.so
 vendor/lib64/liboptizoom.so
 vendor/lib64/libseemore.so
-vendor/lib64/libtrueportrait.so
+lib64/libtrueportrait.so
 vendor/lib64/libubifocus.so
 
 # Camera SCVE
