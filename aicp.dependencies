@@ -7,11 +7,11 @@
     {
         "repository":  "MotoZ-2016/android_vendor_motorola_griffin",
         "target_path": "vendor/motorola/griffin",
-        "branch":      "staging/lineage-15.1"
+        "branch":      "lineage-15.1"
     },
     {
         "repository":  "LineageOS/android_packages_resources_devicesettings",
         "target_path": "packages/resources/devicesettings",
-        "branch":      "staging/lineage-15.1"
+        "branch":      "lineage-15.1"
     }
 ]
