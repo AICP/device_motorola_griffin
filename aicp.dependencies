@@ -1,13 +1,13 @@
 [
     {
-        "repository":  "MotoZ-2016/android_kernel_motorola_msm8996",
+        "repository":  "AICP/kernel_motorola_msm8996",
         "target_path": "kernel/motorola/msm8996",
-        "branch":      "staging/lineage-15.1"
+        "branch":      "o8.1"
     },
     {
-        "repository":  "MotoZ-2016/android_vendor_motorola_griffin",
-        "target_path": "vendor/motorola/griffin",
-        "branch":      "lineage-15.1"
+        "repository":  "AICP/proprietary_vendor_motorola",
+        "target_path": "vendor/motorola",
+        "branch":      "o8.1"
     },
     {
         "repository":  "LineageOS/android_packages_resources_devicesettings",
