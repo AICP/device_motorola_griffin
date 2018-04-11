@@ -232,7 +232,7 @@ PRODUCT_BOOT_JARS += \
 
 # IRSC
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config 
+    $(LOCAL_PATH)/configs/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config
 
 # Keylayouts
 PRODUCT_COPY_FILES += \
@@ -379,8 +379,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     textclassifier.smartselection.bundle1
 
-# Treble
-PRODUCT_FULL_TREBLE_OVERRIDE := true
+# VNDK
 PRODUCT_PACKAGES += \
     vndk-sp \
 
