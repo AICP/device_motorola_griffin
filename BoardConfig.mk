@@ -245,9 +245,6 @@ TARGET_PER_MGR_ENABLED := true
 # Media
 TARGET_USES_MEDIA_EXTENSIONS := true
 
-# SDClang
-TARGET_USE_SDCLANG := true
-
 # Wifi
 BOARD_HAS_QCOM_WLAN              := true
 BOARD_HAS_QCOM_WLAN_SDK          := true
